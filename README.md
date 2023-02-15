@@ -13,7 +13,7 @@ This app was made with:
 
 ## TODO
 
-- [] Set a hash algorithm to store and read passwords
+- [ ] Set a hash algorithm to store and read passwords
 
 ### Register page
 
